@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋 I'm Shubham Mohare</h1>
+<h1 align="center">Hi 👋 I'm <b>Shubham Mohare</b></h1>
+
+<h3 align="center"><b>DevOps Engineer | Cloud Enthusiast</b></h3>
 
 <p align="center">
-A passionate DevOps Engineer committed to automating infrastructure, optimizing deployments, and building scalable cloud solutions.
+A passionate DevOps Engineer committed to automating infrastructure and building scalable cloud systems.
 </p>
 
 
