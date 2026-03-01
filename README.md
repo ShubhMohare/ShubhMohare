@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/ShubhMohare/ShubhMohare/blob/main/your-image-name.png" />
+</p>
+
+
+
 ## Hi there 👋
 
 <!--
