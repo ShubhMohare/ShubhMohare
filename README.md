@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ShubhMohare/blob/main/your-image-name.png" />
+  <img src="https://raw.githubusercontent.com/ShubhMohare/ShubhMohare/main/ShubhMohare.png" />
 </p>
 
 
