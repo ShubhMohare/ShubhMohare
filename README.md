@@ -14,10 +14,6 @@ A passionate DevOps Engineer committed to automating infrastructure and building
 </p>
 
 
-
-
-## Hi there 👋
-
 <!--
 **ShubhMohare/ShubhMohare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
