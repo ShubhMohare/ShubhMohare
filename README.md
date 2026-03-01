@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhMohare/ShubhMohare/main/ShubhMohare.png" />
+</p>
+
 # 👋 Hi, I'm **Shubham Mohare**
 
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
