@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋 I'm Shubham Mohare</h1>
+
+<p align="center">
+A passionate DevOps Engineer committed to automating infrastructure, optimizing deployments, and building scalable cloud solutions.
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShubhMohare/ShubhMohare/main/ShubhMohare.png" />
 </p>
