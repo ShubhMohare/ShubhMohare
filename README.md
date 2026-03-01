@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ShubhMohare/ShubhMohare/main/ShubhMohare.png" />
-</p>
-
 # 👋 Hi, I'm **Shubham Mohare**
 
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
@@ -23,6 +19,9 @@ Passionate about implementing DevOps practices in real-time projects and buildin
 - 📈 Continuously learning and improving cloud automation skills
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhMohare/ShubhMohare/main/ShubhMohare.png" />
+</p>
 
 ## 🌐 Connect With Me
 
